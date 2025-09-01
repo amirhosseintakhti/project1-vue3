@@ -1,12 +1,13 @@
 <script setup>
 import MyButton from './components/MyButton.vue';
+import TaskList from './components/TaskList.vue';
 </script>
 
 <template>
   <main style="font-family: sans-serif; padding: 20px;">
     <h1>سلام! این دفتر یوگا و غذا هست 🧘‍♀️🍎</h1>
-    <p>این یه صفحهٔ خیلی ساده‌ست تا ببینیم همه‌چیز کار می‌کنه.</p>
     <my-button></my-button>
+    <task-list></task-list>
   </main>
 </template>
 
