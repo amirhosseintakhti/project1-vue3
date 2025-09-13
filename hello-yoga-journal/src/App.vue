@@ -1,4 +1,4 @@
-<script setup>
+<!-- <script setup>
 import MyButton from './components/MyButton.vue';
 import TaskList from './components/TaskList.vue';
 </script>
@@ -13,4 +13,11 @@ import TaskList from './components/TaskList.vue';
 
 <style scoped>
 h1 { color: #0f766e; }
-</style>
+</style> -->
+<script setup>
+
+</script>
+
+<template>
+  
+</template>
